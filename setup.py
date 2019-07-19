@@ -20,6 +20,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'mongoengine==0.8.7',
+        'South==0.8.2',
     ],
     zip_safe=False,
     keywords='ya-dancer',
